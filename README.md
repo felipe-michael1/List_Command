@@ -6,8 +6,7 @@ The notebook contains examples of how to parse and transform text using AI model
 
 # Features
 Command-driven text formatting using AI
-
-# Flexible and extensible Python code for text processing
+Flexible and extensible Python code for text processing
 
 # Examples of input and formatted output
 Can be used as a prototype for more complex natural language formatting tasks
